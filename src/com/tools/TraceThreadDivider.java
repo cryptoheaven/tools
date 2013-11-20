@@ -10,7 +10,8 @@
 package com.tools;
 
 import java.io.*;
-import java.util.*;
+import java.util.Enumeration;
+import java.util.Hashtable;
 
 /** 
  * Copyright 2001-2013 CryptoHeaven Corp. All Rights Reserved.

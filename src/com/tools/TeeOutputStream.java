@@ -6,7 +6,8 @@
 
 package com.tools;
 
-import java.io.*;
+import java.io.IOException;
+import java.io.OutputStream;
 
 /**
  *

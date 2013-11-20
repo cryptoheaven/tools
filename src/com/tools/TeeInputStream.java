@@ -6,8 +6,10 @@
 
 package com.tools;
 
-import java.io.*;
-import java.util.*;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Date;
 
 /**
  *
