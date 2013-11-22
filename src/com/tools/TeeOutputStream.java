@@ -21,7 +21,7 @@ public class TeeOutputStream extends OutputStream {
 
   private OutputStream out;
   private TeeInputStream teeIn;
-
+  
   /** Creates new TeeOutputStream */
   public TeeOutputStream(OutputStream out, TeeInputStream teeIn) {
     this.out = out;
