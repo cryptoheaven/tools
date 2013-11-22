@@ -40,16 +40,5 @@ public class TeeOutputStream extends OutputStream {
   public void flush() throws IOException {
     out.flush();
   }
-/*
-  public void write(byte[] bytes) throws IOException {
-    write(bytes, 0, bytes.length);
-  }
-  public void write(byte[] bytes, int off, int len) throws IOException {
-    if (bytes != null && len > 0) {
-      for (int i=0; i<bytes.length; i++) {
-        write(bytes[i]);
-      }
-    }
-  }
-   */
+
 }
