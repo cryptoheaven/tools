@@ -1,9 +1,12 @@
-/*
- * TeeInputStream.java
+/**
+ * Copyright 2001-2013 CryptoHeaven Corp. All Rights Reserved.
  *
- * Created on November 16, 2001, 12:21 AM
+ * This software is the confidential and proprietary information
+ * of CryptoHeaven Corp. ("Confidential Information").  You
+ * shall not disclose such Confidential Information and shall use
+ * it only in accordance with the terms of the license agreement
+ * you entered into with CryptoHeaven Corp.
  */
-
 package com.tools;
 
 import java.io.FileWriter;
@@ -12,9 +15,9 @@ import java.io.InputStream;
 import java.util.Date;
 
 /**
+ * Copyright 2001-2013 CryptoHeaven Corp. All Rights Reserved.
  *
- * @author  marcin
- * @version 
+ * @author  Marcin Kurzawa
  */
 public class TeeInputStream extends InputStream {
 
