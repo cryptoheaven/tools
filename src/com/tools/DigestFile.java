@@ -9,8 +9,8 @@
  */
 package com.tools;
 
-import java.io.*;
-import java.security.*;
+import java.io.File;
+import java.security.MessageDigest;
 
 /**
  * Copyright 2001-2013 CryptoHeaven Corp. All Rights Reserved.
